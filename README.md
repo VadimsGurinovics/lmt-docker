@@ -4,8 +4,9 @@
 
 Clone the repository:
 
+```bash
 git clone https://github.com/VadimsGurinovics/lmt-docker.git
-
+```
 ### Step 2: Navigate to the project directory
 
 First, make sure you're inside the project folder:
